@@ -43,7 +43,7 @@
 ##  🚀 Our Amazing Contributors
 
 <a href="https://github.com/ShineiIchijo/Chitoge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
+  <img src="https://contrib.rocks/image?repo=iceyhawk/Chitoge" />
 </a>
 
 
