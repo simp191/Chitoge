@@ -21,13 +21,13 @@
 -   Object Oriented
 -   Written in [TypeScript](https://www.typescriptlang.org/)
 -   Self-Restoring Auth
--   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
+-   Built with [Baileys](https://github.com/iceyhawk/baileys) (The Best
     WhatsApp Library Out There)
 
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [Chitoge-Guides](https://github.com/iceyhawk/Chitoge-Guides/blob/main/README.md)
+    [Chitoge-Guides](https://github.com/shineilchijo/Chitoge-Guides/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
