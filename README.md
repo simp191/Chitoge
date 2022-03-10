@@ -21,7 +21,7 @@
 -   Object Oriented
 -   Written in [TypeScript](https://www.typescriptlang.org/)
 -   Self-Restoring Auth
--   Built with [Baileys](https://github.com/iceyhawk/baileys) (The Best
+-   Built with [Baileys](https://github.com//baileys) (The Best
     WhatsApp Library Out There)
 
 ## 💻 Deploy/Hosting Guide
@@ -43,7 +43,7 @@
 ##  🚀 Our Amazing Contributors
 
 <a href="https://github.com/ShineiIchijo/Chitoge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ShineiIchijo/Chitoge" />
+  <img src="https://contrib.rocks/image?repo=iceyhawk/Chitoge" />
 </a>
 
 
